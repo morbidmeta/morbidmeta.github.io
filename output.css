@@ -268,7 +268,7 @@ html, body {
 }
 @media only screen and (min-width: 600px) {
   .background-container {
-    background-image: url("/assets/bg_mig.png");
+    background-image: url("/assets/bg_mig.jpg");
     padding: calc(var(--spacing) * 10);
   }
 }
